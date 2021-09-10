@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on [Revvo Lab](https://revvolab.com/) a **Technology Development Laboratory** creating innovative and disruptive solutions
 - 🌱 I’m currently learning **Java, AWS Architecture and Google Cloud Services**
-- 👯 I’m looking to collaborate on **social tecnology projects** and **IoT Enviormental solutions **
+- 👯 I’m looking to collaborate on **social tecnology projects** and **IoT enviormental solutions **
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
